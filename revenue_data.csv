@@ -1,0 +1,81 @@
+order_id,date,customer_name,region,product_name,category,quantity,price,revenue,profit
+1,2023-01-05,Rahul Gupta,South,Laptop Pro,Electronics,1,58000.0,58000.0,13000.0
+8,2023-02-07,Rohan Joshi,North,Laptop Pro,Electronics,1,58000.0,58000.0,13000.0
+16,2023-03-15,Shreya Kapoor,West,Laptop Pro,Electronics,1,58000.0,58000.0,13000.0
+25,2023-05-03,Riya Jain,East,Laptop Pro,Electronics,1,58000.0,58000.0,13000.0
+32,2023-06-07,Anjali Reddy,South,Laptop Pro,Electronics,1,58000.0,58000.0,13000.0
+41,2023-07-23,Divya Nair,East,Laptop Pro,Electronics,1,58000.0,58000.0,13000.0
+49,2023-09-01,Vikram Singh,North,Laptop Pro,Electronics,1,58000.0,58000.0,13000.0
+56,2023-10-06,Swati Goyal,West,Laptop Pro,Electronics,1,58000.0,58000.0,13000.0
+63,2023-11-11,Pooja Iyer,South,Laptop Pro,Electronics,1,58000.0,58000.0,13000.0
+71,2023-12-17,Manish Bose,West,Laptop Pro,Electronics,1,58000.0,58000.0,13000.0
+80,2023-12-29,Kavya Rao,West,Laptop Pro,Electronics,1,58000.0,58000.0,13000.0
+2,2023-01-08,Arjun Kumar,West,Wireless Mouse,Electronics,3,500.0,1500.0,450.0
+13,2023-03-01,Siddharth Das,South,Wireless Mouse,Electronics,5,500.0,2500.0,750.0
+24,2023-04-27,Deepak Choudhary,South,Wireless Mouse,Electronics,4,500.0,2000.0,600.0
+38,2023-07-08,Aditya Sharma,North,Wireless Mouse,Electronics,6,500.0,3000.0,900.0
+53,2023-09-21,Tanvi Shah,East,Wireless Mouse,Electronics,8,500.0,4000.0,1200.0
+68,2023-12-06,Suresh Pillai,North,Wireless Mouse,Electronics,5,500.0,2500.0,750.0
+78,2023-12-24,Arjun Kumar,West,Wireless Mouse,Electronics,10,500.0,5000.0,1500.0
+6,2023-01-27,Meera Agarwal,West,USB-C Hub,Electronics,4,1200.0,4800.0,1600.0
+19,2023-04-02,Kavya Rao,West,USB-C Hub,Electronics,3,1200.0,3600.0,1200.0
+31,2023-06-02,Swati Goyal,West,USB-C Hub,Electronics,5,1200.0,6000.0,2000.0
+42,2023-07-28,Suresh Pillai,North,USB-C Hub,Electronics,4,1200.0,4800.0,1600.0
+59,2023-10-21,Siddharth Das,South,USB-C Hub,Electronics,6,1200.0,7200.0,2400.0
+73,2023-12-19,Shreya Kapoor,West,USB-C Hub,Electronics,3,1200.0,3600.0,1200.0
+4,2023-01-18,Aditya Sharma,North,Office Chair,Furniture,2,6000.0,12000.0,3000.0
+15,2023-03-10,Divya Nair,East,Office Chair,Furniture,1,6000.0,6000.0,1500.0
+26,2023-05-08,Vikram Singh,North,Office Chair,Furniture,3,6000.0,18000.0,4500.0
+40,2023-07-18,Shreya Kapoor,West,Office Chair,Furniture,1,6000.0,6000.0,1500.0
+51,2023-09-11,Nikhil Tiwari,North,Office Chair,Furniture,2,6000.0,12000.0,3000.0
+64,2023-11-16,Ananya Bhatt,East,Office Chair,Furniture,1,6000.0,6000.0,1500.0
+76,2023-12-22,Neha Verma,East,Office Chair,Furniture,1,6000.0,6000.0,1500.0
+10,2023-02-15,Anjali Reddy,South,Standing Desk,Furniture,1,11000.0,11000.0,3000.0
+21,2023-04-12,Akash Pandey,North,Standing Desk,Furniture,1,11000.0,11000.0,3000.0
+35,2023-06-22,Rohan Joshi,North,Standing Desk,Furniture,1,11000.0,11000.0,3000.0
+45,2023-08-12,Neha Verma,East,Standing Desk,Furniture,1,11000.0,11000.0,3000.0
+57,2023-10-11,Ritu Saxena,East,Standing Desk,Furniture,1,11000.0,11000.0,3000.0
+69,2023-12-11,Rahul Gupta,South,Standing Desk,Furniture,2,11000.0,22000.0,6000.0
+7,2023-02-03,Priya Patel,West,Notebook Set,Stationery,5,200.0,1000.0,400.0
+18,2023-03-25,Suresh Pillai,North,Notebook Set,Stationery,8,200.0,1600.0,640.0
+33,2023-06-12,Pooja Iyer,South,Notebook Set,Stationery,6,200.0,1200.0,480.0
+48,2023-08-27,Meera Agarwal,West,Notebook Set,Stationery,10,200.0,2000.0,800.0
+61,2023-11-01,Sneha Mehta,East,Notebook Set,Stationery,4,200.0,800.0,320.0
+74,2023-12-20,Ishita Desai,West,Notebook Set,Stationery,5,200.0,1000.0,400.0
+11,2023-02-19,Ananya Bhatt,East,Ballpoint Pens,Stationery,10,60.0,600.0,200.0
+27,2023-05-13,Ritu Saxena,East,Ballpoint Pens,Stationery,20,60.0,1200.0,400.0
+43,2023-08-02,Rahul Gupta,South,Ballpoint Pens,Stationery,15,60.0,900.0,300.0
+65,2023-11-21,Rohan Joshi,North,Ballpoint Pens,Stationery,25,60.0,1500.0,500.0
+3,2023-01-12,Neha Verma,East,"Monitor 27""",Electronics,1,15500.0,15500.0,3500.0
+12,2023-02-23,Sneha Mehta,East,"Monitor 27""",Electronics,2,15500.0,31000.0,7000.0
+20,2023-04-07,Aditya Sharma,North,"Monitor 27""",Electronics,1,15500.0,15500.0,3500.0
+28,2023-05-18,Gaurav Mishra,South,"Monitor 27""",Electronics,1,15500.0,15500.0,3500.0
+37,2023-07-03,Yash Thakur,South,"Monitor 27""",Electronics,2,15500.0,31000.0,7000.0
+46,2023-08-17,Ishita Desai,West,"Monitor 27""",Electronics,1,15500.0,15500.0,3500.0
+52,2023-09-16,Arjun Kumar,West,"Monitor 27""",Electronics,1,15500.0,15500.0,3500.0
+60,2023-10-26,Akash Pandey,North,"Monitor 27""",Electronics,2,15500.0,31000.0,7000.0
+67,2023-12-01,Aditya Sharma,North,"Monitor 27""",Electronics,1,15500.0,15500.0,3500.0
+75,2023-12-21,Harshit Kulkarni,North,"Monitor 27""",Electronics,1,15500.0,15500.0,3500.0
+5,2023-01-22,Vikram Singh,North,Mechanical Keyboard,Electronics,1,3000.0,3000.0,800.0
+14,2023-03-06,Manish Bose,West,Mechanical Keyboard,Electronics,1,3000.0,3000.0,800.0
+23,2023-04-22,Arjun Kumar,West,Mechanical Keyboard,Electronics,2,3000.0,6000.0,1600.0
+30,2023-05-28,Siddharth Das,South,Mechanical Keyboard,Electronics,1,3000.0,3000.0,800.0
+39,2023-07-13,Manish Bose,West,Mechanical Keyboard,Electronics,2,3000.0,6000.0,1600.0
+47,2023-08-22,Kavya Rao,West,Mechanical Keyboard,Electronics,1,3000.0,3000.0,800.0
+55,2023-10-01,Priya Patel,West,Mechanical Keyboard,Electronics,1,3000.0,3000.0,800.0
+62,2023-11-06,Riya Jain,East,Mechanical Keyboard,Electronics,1,3000.0,3000.0,800.0
+70,2023-12-16,Yash Thakur,South,Mechanical Keyboard,Electronics,2,3000.0,6000.0,1600.0
+79,2023-12-27,Tanvi Shah,East,Mechanical Keyboard,Electronics,1,3000.0,3000.0,800.0
+29,2023-05-23,Priya Patel,West,Bookshelf,Furniture,1,4500.0,4500.0,1300.0
+50,2023-09-06,Karan Malhotra,North,Bookshelf,Furniture,2,4500.0,9000.0,2600.0
+66,2023-11-26,Gaurav Mishra,South,Bookshelf,Furniture,1,4500.0,4500.0,1300.0
+17,2023-03-20,Rahul Gupta,South,Whiteboard,Stationery,2,2200.0,4400.0,1400.0
+36,2023-06-27,Sneha Mehta,East,Whiteboard,Stationery,1,2200.0,2200.0,700.0
+54,2023-09-26,Deepak Choudhary,South,Whiteboard,Stationery,1,2200.0,2200.0,700.0
+77,2023-12-23,Deepak Choudhary,South,Whiteboard,Stationery,2,2200.0,4400.0,1400.0
+9,2023-02-11,Pooja Iyer,South,Webcam HD,Electronics,2,2500.0,5000.0,1400.0
+22,2023-04-17,Karan Malhotra,North,Webcam HD,Electronics,1,2500.0,2500.0,700.0
+34,2023-06-17,Ananya Bhatt,East,Webcam HD,Electronics,2,2500.0,5000.0,1400.0
+44,2023-08-07,Harshit Kulkarni,North,Webcam HD,Electronics,1,2500.0,2500.0,700.0
+58,2023-10-16,Anjali Reddy,South,Webcam HD,Electronics,3,2500.0,7500.0,2100.0
+72,2023-12-18,Divya Nair,East,Webcam HD,Electronics,2,2500.0,5000.0,1400.0
